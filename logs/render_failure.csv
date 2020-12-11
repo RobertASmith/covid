@@ -1,0 +1,2 @@
+page,error
+_posts/national/turkey,"list(message = ""cannot open the connection"", call = gzfile(file, ""rb""))"
